@@ -3,10 +3,11 @@ package variables;
 public class Operator {
     public static void main(String[] args) {
 
-        // int, double
+        // int, short, long
+        // float, double
         // boolean
-        // char
-        // String
+        // byte
+        // char, String
         
         // 대입 연산자 
         // =, +=, -=
