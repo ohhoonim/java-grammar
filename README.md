@@ -16,8 +16,8 @@ Code의 7가지 핵심요소를 중심으로 Java 문법을 설명합니다.
 | ------ | ------------------------------ | ---------------------------- |
 | 변수   | com.ohhoonim.grammar.variable  | https://youtu.be/C6ZRfWHsn4k |
 | 배열   | com.ohhoonim.grammar.array     | https://youtu.be/5BQdDErNsoo |
-| 반복   | com.ohhoonim.grammar.loop      | (작성전)                     |
-| 분기   | com.ohhoonim.grammar.control   | (작성전)                     |
+| 분기   | com.ohhoonim.grammar.branch    | https://youtu.be/8f2QJkJpGS8 |
+| 반복   | com.ohhoonim.grammar.iteration | https://youtu.be/QuazKDEAHqI |
 | 함수   | com.ohhoonim.grammar.function  | (작성전)                     |
 | 키와값 | com.ohhoonim.grammar.key-value | (작성전)                     |
 | 객체   | com.ohhoonim.grammar.object    | (작성전)                     |
