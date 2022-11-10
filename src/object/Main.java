@@ -8,6 +8,9 @@ public class Main {
         String carNumber ="123 가 3456";
         String carType = "카니발";
         double fuelEfficiency = 15.4;
+        // 참조데이터형은 메모리에 등록을 해야 사용할 수 있고,  
+        // 참조데이터형이 메모리에 등록된 상태를 인스턴스라고 한다.
+        // "new"는 참조데이터형을 인스턴스로 만드는 연산자이다.
         Car myCar = new Car(carNumber, carType, fuelEfficiency);
 
         // 차종은 개조하면 나중에 변경가능하다. 

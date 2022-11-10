@@ -2,7 +2,7 @@ package collection;
 
 import java.util.ArrayList;
 
-public class ListSetCollection {
+public class ListCollection {
     // 데이터를 효율적으로 접근하고 수정할 수 있는 구조를
     // 자료구조(data structure) 라고 한다. 
     

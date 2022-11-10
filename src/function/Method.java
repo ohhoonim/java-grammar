@@ -4,10 +4,10 @@ public class Method {
     public static void main(String[] args) {
         System.out.println("method");
 
-        // 메서드는 특정 기능을 수행하는 함수이다.
+        // 1. 메서드는 특정 기능을 수행하는 함수이다.
         int a = 2;
         int b = 3;
-        int y = plus(a, b);
+        int y = plus(a, b); // 2. plus 메서드를 보자 
         System.out.println(y);
         
         // 변수의 scope (중요)
@@ -30,7 +30,8 @@ public class Method {
 
     }
 
-    // "public static" : 
+    // "public" : 모든 곳에서 가져다 쓸수 있다. 
+    // "static" : 객체생성을 하지 않아도 쓸수 있다. 
     // "int" : 함수를 실행하고 난 결과값의 자료형
     // "plus" : 메서드 명
     // "(int a, int b)" : 입력값, 각 입력값은 자료형 + 변수명 으로 표시하고
