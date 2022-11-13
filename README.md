@@ -12,15 +12,17 @@ Code의 7가지 핵심요소를 중심으로 Java 문법을 설명합니다.
 
 ## 7가지 요소
 
-| 요소명 | 패키지                         | 유튜브 영상                  |
-| ------ | ------------------------------ | ---------------------------- |
-| 변수   | com.ohhoonim.grammar.variable  | https://youtu.be/C6ZRfWHsn4k |
-| 배열   | com.ohhoonim.grammar.array     | https://youtu.be/5BQdDErNsoo |
-| 분기   | com.ohhoonim.grammar.branch    | https://youtu.be/8f2QJkJpGS8 |
-| 반복   | com.ohhoonim.grammar.iteration | https://youtu.be/QuazKDEAHqI |
-| 함수   | com.ohhoonim.grammar.function  | (작성전)                     |
-| 키와값 | com.ohhoonim.grammar.key-value | (작성전)                     |
-| 객체   | com.ohhoonim.grammar.object    | (작성전)                     |
+- 순서대로 시청하셔야 합니다. 
+
+| 순서 | 요소명 | 패키지                         | 유튜브 영상                  |
+| ---- | ------ | ------------------------------ | ---------------------------- |
+| 1    | 변수   | com.ohhoonim.grammar.variable  | https://youtu.be/C6ZRfWHsn4k |
+| 2    | 배열   | com.ohhoonim.grammar.array     | https://youtu.be/5BQdDErNsoo |
+| 3    | 분기   | com.ohhoonim.grammar.branch    | https://youtu.be/8f2QJkJpGS8 |
+| 4    | 반복   | com.ohhoonim.grammar.iteration | https://youtu.be/QuazKDEAHqI |
+| 5    | 객체   | com.ohhoonim.grammar.object    | https://youtu.be/AtCmws4s_j8 |
+| 6    | 함수   | com.ohhoonim.grammar.function  | https://youtu.be/2N5ISW4XW3Q |
+| 7    | 키와값 | com.ohhoonim.grammar.key-value | https://youtu.be/WyTBThDnxm0 |
 
 ## 영상 전체 재생목록
 

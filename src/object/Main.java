@@ -3,7 +3,7 @@ package object;
 public class Main {
     public static void main(String[] args) {
         
-        // 오빠 차 뽑았다
+        // 새 차 샀다. 
         // 자동차는 처음 생산되면 차량번호, 차종, 연비에 대한 기본정보를 가지고 있다. 
         String carNumber ="123 가 3456";
         String carType = "카니발";
