@@ -38,5 +38,16 @@ public class Array {
         System.out.println(demension_2[0].length); // 5
         System.out.println(demension_2[1][4]); // 10
 
+        
+        System.out.println(demension_2.length); // 3
+        System.out.println(demension_2.length); // 3
+        System.out.println(demension_2.length); // 3
+        System.out.println(demension_2[0].length); // 5
+        System.out.println(demension_2[1][4]); // 10
+        System.out.println(demension_2[0].length); // 5
+        System.out.println(demension_2[1][4]); // 10
+        System.out.println(demension_2[0].length); // 5
+        System.out.println(demension_2[1][4]); // 10
+
     }
 }
