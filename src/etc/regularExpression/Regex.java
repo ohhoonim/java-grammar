@@ -1,4 +1,4 @@
-package utils.regularExpression;
+package etc.regularExpression;
 
 import java.util.function.Predicate;
 import java.util.regex.Matcher;

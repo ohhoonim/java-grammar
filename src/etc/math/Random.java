@@ -1,4 +1,4 @@
-package utils.math;
+package etc.math;
 
 public class Random {
     public static void main(String[] args) {
