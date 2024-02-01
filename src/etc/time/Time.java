@@ -14,6 +14,7 @@ public class Time {
         System.out.println(birthday);
 
         // LocalDateTime
+        // 시스템 zone 정보가 이미 반영되어있다. 
         System.out.println(LocalDateTime.now());
         // ZonedDateTime
         System.out.println(ZonedDateTime.now(ZoneId.of("+00:00")));

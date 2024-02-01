@@ -1,4 +1,4 @@
-package implement;
+package etc.implement;
 
 public class PayMoney implements PayMethod {
 
