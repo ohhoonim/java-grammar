@@ -11,7 +11,7 @@ public class OptionalMain {
         // 1. Optional을 사용하지 않았을 때
         var user = UserRepository.findUserById(1L);
         if (user!= null) {  
-            System.out.println(user.name);
+            System.out.println(user.name());
         } else {
             System.out.println("User not found");
         }
@@ -19,29 +19,9 @@ public class OptionalMain {
         // 2. Optional을 사용했을 때
         var user2 = UserRepository.findOptionalUserById(1L);
         if (user2.isPresent()) {
-            System.out.println(user2.get().name);
+            System.out.println(user2.get().name());
         } else {
             System.out.println("User not found");
-        }
-    }
-
-    record User(Long id, String name, String email) {}
-
-    public class UserRepository {
-        public static User findUserById(Long id) {
-            if (id == null) {
-                return null;
-            }
-            // return new User(id, name, email);
-            return new User(id, "matthew", "some@email");
-        }
-
-        public static Optional<User> findOptionalUserById(Long id) {
-            if (id == null) {
-                return Optional.empty();
-            }
-            // return new User(id, name, email);
-            return Optional.of(new User(id, "matthew", "some@email"));
         }
     }
 }
