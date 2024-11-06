@@ -14,16 +14,16 @@ Code의 7가지 핵심요소를 중심으로 Java 문법을 설명합니다.
 
 - 순서대로 시청하셔야 합니다. 
 
-| 순서 | 요소명 | 패키지                         | 유튜브 영상                  |
-| ---- | ------ | ------------------------------ | ---------------------------- |
-| 1    | 변수   | com.ohhoonim.grammar.variable  | https://youtu.be/C6ZRfWHsn4k |
-| 2    | 배열   | com.ohhoonim.grammar.array     | https://youtu.be/5BQdDErNsoo |
-| 3    | 분기   | com.ohhoonim.grammar.branch    | https://youtu.be/8f2QJkJpGS8 |
-| 4    | 반복   | com.ohhoonim.grammar.iteration | https://youtu.be/QuazKDEAHqI |
-| 5    | 객체   | com.ohhoonim.grammar.object    | https://youtu.be/AtCmws4s_j8 |
-| 6    | 함수   | com.ohhoonim.grammar.function  | https://youtu.be/2N5ISW4XW3Q |
-| 7    | 키와값 | com.ohhoonim.grammar.collection| https://youtu.be/WyTBThDnxm0 |
-| 8    | 기타   | com.ohhoonim.grammar.etc       | 없음                         |
+| 순서 | 요소명 | 패키지                             | 유튜브 영상                  |
+|------|--------|------------------------------------|------------------------------|
+| 1    | 변수   | com.ohhoonim.grammar.variable      | https://youtu.be/C6ZRfWHsn4k |
+| 2    | 배열   | com.ohhoonim.grammar.array         | https://youtu.be/5BQdDErNsoo |
+| 3    | 분기   | com.ohhoonim.grammar.branch        | https://youtu.be/8f2QJkJpGS8 |
+| 4    | 반복   | com.ohhoonim.grammar.iteration     | https://youtu.be/QuazKDEAHqI |
+| 5    | 객체   | com.ohhoonim.grammar.object        | https://youtu.be/AtCmws4s_j8 |
+| 6    | 함수   | com.ohhoonim.grammar.function      | https://youtu.be/2N5ISW4XW3Q |
+| 7    | 키와값 | com.ohhoonim.grammar.collection    | https://youtu.be/WyTBThDnxm0 |
+| 8    | enum   | com.ohhoonim.grammar.etc.enumClass | 제작중                       |
 
 ## 영상 전체 재생목록
 
