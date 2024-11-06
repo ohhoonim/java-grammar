@@ -23,7 +23,7 @@ Code의 7가지 핵심요소를 중심으로 Java 문법을 설명합니다.
 | 5    | 객체   | com.ohhoonim.grammar.object        | https://youtu.be/AtCmws4s_j8 |
 | 6    | 함수   | com.ohhoonim.grammar.function      | https://youtu.be/2N5ISW4XW3Q |
 | 7    | 키와값 | com.ohhoonim.grammar.collection    | https://youtu.be/WyTBThDnxm0 |
-| 8    | enum   | com.ohhoonim.grammar.etc.enumClass | 제작중                       |
+| 8    | enum   | com.ohhoonim.grammar.etc.enumClass | https://youtu.be/eAE8qV7iLr0 |
 
 ## 영상 전체 재생목록
 
