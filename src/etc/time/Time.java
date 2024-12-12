@@ -1,8 +1,10 @@
 package etc.time;
 
+import java.time.Instant;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.ZoneId;
+import java.time.ZoneOffset;
 import java.time.ZonedDateTime;
 
 public class Time {
@@ -20,6 +22,11 @@ public class Time {
         System.out.println(ZonedDateTime.now(ZoneId.of("+00:00")));
         System.out.println(ZonedDateTime.now(ZoneId.of("-01:00")));
         System.out.println(ZonedDateTime.now(ZoneId.of("+09:00")));
+
+        // Instant
+        System.out.println(Instant.now());
+        System.out.println(Instant.now().atZone(ZoneId.of("+09:00")));
+        System.out.println(Instant.now().atOffset(ZoneOffset.of("+09:00")));
 
     }
 }
