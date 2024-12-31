@@ -1,0 +1,225 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "array.Array",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "IfStatement",
+            "request": "launch",
+            "mainClass": "branch.IfStatement",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "SwitchStatement",
+            "request": "launch",
+            "mainClass": "branch.SwitchStatement",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "ListCollection",
+            "request": "launch",
+            "mainClass": "collection.ListCollection",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "MapCollection",
+            "request": "launch",
+            "mainClass": "collection.MapCollection",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "SetCollection",
+            "request": "launch",
+            "mainClass": "collection.SetCollection",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "Annotation",
+            "request": "launch",
+            "mainClass": "etc.annotation.Annotation",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "EnumMain",
+            "request": "launch",
+            "mainClass": "etc.enumClass.EnumMain",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "GradeMain",
+            "request": "launch",
+            "mainClass": "etc.enumClass.GradeMain",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "MasterCodeMain",
+            "request": "launch",
+            "mainClass": "etc.enumClass.MasterCodeMain",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "etc.implement.Main",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "Random",
+            "request": "launch",
+            "mainClass": "etc.math.Random",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "OptionalMain",
+            "request": "launch",
+            "mainClass": "etc.optional.OptionalMain",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "OptionalStreamMain",
+            "request": "launch",
+            "mainClass": "etc.optional.OptionalStreamMain",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "RecordMain",
+            "request": "launch",
+            "mainClass": "etc.record.RecordMain",
+            "projectName": "java-grammar_1e0790a8",
+        },
+        {
+            "type": "java",
+            "name": "SealedRecord",
+            "request": "launch",
+            "mainClass": "etc.record.SealedRecord",
+            "projectName": "java-grammar_1e0790a8",
+            "vmArgs": "-ea"
+        },
+        {
+            "type": "java",
+            "name": "Regex",
+            "request": "launch",
+            "mainClass": "etc.regularExpression.Regex",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "Time",
+            "request": "launch",
+            "mainClass": "etc.time.Time",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "Lambda",
+            "request": "launch",
+            "mainClass": "function.Lambda",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "Method",
+            "request": "launch",
+            "mainClass": "function.Method",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "BreakIteration",
+            "request": "launch",
+            "mainClass": "iteration.BreakIteration",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "ForStatement",
+            "request": "launch",
+            "mainClass": "iteration.ForStatement",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "WhileStatement",
+            "request": "launch",
+            "mainClass": "iteration.WhileStatement",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "object.Main",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "Boolean",
+            "request": "launch",
+            "mainClass": "variables.Boolean",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "Byte",
+            "request": "launch",
+            "mainClass": "variables.Byte",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "Characters",
+            "request": "launch",
+            "mainClass": "variables.Characters",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "Number",
+            "request": "launch",
+            "mainClass": "variables.Number",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "Operator",
+            "request": "launch",
+            "mainClass": "variables.Operator",
+            "projectName": "java-grammar_1e0790a8"
+        }
+    ]
+}
