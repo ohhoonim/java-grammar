@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "etc.module.hello.main.Hello",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -120,7 +127,7 @@
             "name": "RecordMain",
             "request": "launch",
             "mainClass": "etc.record.RecordMain",
-            "projectName": "java-grammar_1e0790a8",
+            "projectName": "java-grammar_1e0790a8"
         },
         {
             "type": "java",

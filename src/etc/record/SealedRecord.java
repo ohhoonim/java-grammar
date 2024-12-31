@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.UUID;
 
 import etc.record.Curriculum.Course;
-import etc.record.Curriculum.Usecase;
+import etc.record.Curriculum.Course.Usecase;
 
 public class SealedRecord {
 
@@ -35,18 +35,18 @@ sealed interface Curriculum {
             LocalDate startDate,
             LocalDate endDate,
             Boolean closed) implements Curriculum {
+        interface Usecase {
+            public Course save(Course course);
+
+            public List<Course> courses();
+
+            public Course findCourse(UUID courseId);
+        }
     }
 
-    interface Usecase {
-        public Course save(Course course);
-
-        public List<Course> courses();
-
-        public Course findCourse(UUID courseId);
-    }
 }
 
-class CourseService implements Usecase {
+class CourseService implements Course.Usecase {
 
     @Override
     public Course save(Course course) {
