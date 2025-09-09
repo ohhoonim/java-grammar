@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ManualIterationApproach",
+            "request": "launch",
+            "mainClass": "string.ManualIterationApproach",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "StreamLinesApproach",
+            "request": "launch",
+            "mainClass": "string.StreamLinesApproach",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "BufferedReaderApproach",
+            "request": "launch",
+            "mainClass": "string.BufferedReaderApproach",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "ScannerApproach",
+            "request": "launch",
+            "mainClass": "string.ScannerApproach",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "LineSeparatorApproach",
+            "request": "launch",
+            "mainClass": "string.LineSeparatorApproach",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
+            "name": "LineSeparatorApproach",
+            "request": "launch",
+            "mainClass": "world/string.LineSeparatorApproach",
+            "projectName": "java-grammar_1e0790a8"
+        },
+        {
+            "type": "java",
             "name": "Hello",
             "request": "launch",
             "mainClass": "etc.module.hello.main.Hello",
