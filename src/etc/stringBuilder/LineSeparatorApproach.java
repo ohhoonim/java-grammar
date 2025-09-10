@@ -1,4 +1,4 @@
-package string;
+package etc.stringBuilder;
 
 public class LineSeparatorApproach {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package string;
+package etc.stringBuilder;
 
 public class StreamLinesApproach {
     public static void main(String[] args) {
