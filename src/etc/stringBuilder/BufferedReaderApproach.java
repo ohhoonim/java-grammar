@@ -1,4 +1,4 @@
-package string;
+package etc.stringBuilder;
 
 import java.io.BufferedReader;
 import java.io.IOException;

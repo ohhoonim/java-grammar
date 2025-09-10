@@ -1,4 +1,4 @@
-package string;
+package etc.stringBuilder;
 
 import java.io.StringReader;
 import java.util.Scanner;
